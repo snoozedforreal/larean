@@ -1,0 +1,28 @@
+//  ================================================================================================
+//  NOTE:
+//
+//  HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+//  WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.
+//  ================================================================================================
+
+@import 'variables/variables';
+
+//  ================================================================================================
+//  Menu
+//  ================================================================================================
+.main-menu .navbar-header .navbar-brand .brand-text {
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+//  ================================================================================================
+//  Description layouts
+//  ================================================================================================
+.description .description-image {
+    height: 200px;
+}
+
+.description .description-title {
+    font-weight: 800;
+    font-size: 1.6rem;
+}
