@@ -1,6 +1,14 @@
 {
     "name": "hassanaitnacer/larean",
     "type": "project",
+    "authors": [
+        {
+            "name": "Hassan Ait Nacer",
+            "email": "itshassannacer@gmail.com",
+            "homepage": "https://linktr.ee/itshassannacer",
+            "role": "Developer"
+        }
+    ],
     "description": "A Laravel & React Dashboard.",
     "keywords": [
         "dashboard",

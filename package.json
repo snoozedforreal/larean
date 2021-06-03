@@ -1,4 +1,5 @@
 {
+    "author": "Hassan Ait Nacer <itshassannacer@gmail.com> (https://linktr.ee/itshassannacer)",
     "private": true,
     "scripts": {
         "dev": "npm run development",
