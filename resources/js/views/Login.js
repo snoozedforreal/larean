@@ -1,4 +1,3 @@
-import { useSkin } from '@hooks/useSkin';
 import { Link } from 'react-router-dom';
 import InputPasswordToggle from '@components/input-password-toggle';
 import { Row, Col, Form, FormGroup, Label, Input, CustomInput, Button } from 'reactstrap';
