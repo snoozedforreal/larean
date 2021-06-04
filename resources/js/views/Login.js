@@ -45,7 +45,11 @@ const Login = () => {
                                         Password
                                     </Label>
                                 </div>
-                                <InputPasswordToggle className='input-group-merge' id='password' />
+                                <InputPasswordToggle
+                                    className='input-group-merge'
+                                    placeholder='Password'
+                                    id='password'
+                                />
                             </FormGroup>
                             <FormGroup>
                                 <CustomInput

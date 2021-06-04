@@ -251,6 +251,7 @@ var Login = function Login() {
                 })
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)(_components_input_password_toggle__WEBPACK_IMPORTED_MODULE_1__.default, {
                 className: "input-group-merge",
+                placeholder: "Password",
                 id: "password"
               })]
             }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)(reactstrap__WEBPACK_IMPORTED_MODULE_9__.default, {
