@@ -1,7 +1,7 @@
 import { lazy } from 'react';
 
 // ** Document title
-const TemplateTitle = '%s - Vuexy React Admin Template';
+const TemplateTitle = '%s - A Laravel & React Dashboard';
 
 // ** Default Route
 const DefaultRoute = '/home';
